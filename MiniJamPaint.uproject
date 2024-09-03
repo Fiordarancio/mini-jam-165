@@ -118,6 +118,10 @@
 		{
 			"Name": "ControlRig",
 			"Enabled": false
+		},
+		{
+			"Name": "OpenImageDenoise",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
